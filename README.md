@@ -29,13 +29,6 @@ Este proyecto analiza datos históricos del precio de Bitcoin desde 2010 hasta 2
 - Redes neuronales
 - Modelos de series temporales (ARIMA, Prophet)
 
-## 🚀 Ejecución
-
-1. Clona el repositorio
-2. Activa tu entorno virtual
-3. Instala dependencias con `pip install -r requirements.txt`
-4. Ejecuta los notebooks o scripts en VS Code
-
 ## 📝 Notas
 
 Este proyecto es solo con fines educativos. No representa asesoramiento financiero.
